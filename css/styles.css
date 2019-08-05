@@ -1,0 +1,14 @@
+
+div
+{
+background-image: url("../pics/2016_1.JPG");
+background-repeat:no-repeat;
+background-size:contain;
+
+height: 100vh;
+}
+
+body{
+    margin:0px;
+    background-color: black;
+}
